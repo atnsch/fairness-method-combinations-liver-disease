@@ -1,9 +1,9 @@
 # Kombinationseffekte ausgewählter Pre- und Post-Processing-Fairnessmethoden bei der Lebererkrankungsvorhersage
 
-**Art:** Bachelorarbeit  
-**Autor:** Anton Schmidt  
-**Erstprüfende Person:** Prof. Dr. Stefan Lessmann 
-**Zweitprüfende Person:** Prof. Dr. Georg Tafner
+**Art:** Bachelorarbeit<br>
+**Autor:** Anton Schmidt<br>
+**Erstprüfer:** Prof. Dr. Stefan Lessmann<br>
+**Zweitprüfer:** Prof. Dr. Georg Tafner
 
 
 
