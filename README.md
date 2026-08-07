@@ -149,7 +149,7 @@ Die ersten beiden Tabellenblätter dokumentieren die aggregierten Gruppen- und F
 │   ├── README.md
 │   ├── Indian Liver Patient Dataset (ILPD).csv
 │   └── hcvdat0.csv
-├── notebooks
+├── src
 │   └── Bachelorarbeit.ipynb
 └── results
     └── fairness\_results.xlsx
