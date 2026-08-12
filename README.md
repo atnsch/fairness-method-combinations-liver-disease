@@ -109,7 +109,7 @@ Zusätzlich wird eine Jupyter-kompatible Umgebung benötigt, beispielsweise Jupy
    data/hcvdat0.csv
    ```
 
-3. `src/Bachelorarbeit.ipynb` öffnen.
+3. `src/fairness-method-combinations-liver-disease.ipynb` öffnen.
 4. Den Kernel neu starten und sämtliche Zellen in ihrer vorgegebenen Reihenfolge ausführen.
 5. Nach erfolgreicher Ausführung befindet sich die Ergebnisdatei unter `results/fairness_results.xlsx`.
 
