@@ -37,9 +37,9 @@ Diese Bachelorarbeit untersucht, wie sich die sequenzielle Kombination ausgewäh
 
 
 
-Die Ergebnisse zeigen datensatz- und metrikabhängige Wirkungen. Im ILPD treten stärkere Ausgangsdisparitäten und deutlichere Methodeneffekte als im HCV-Datensatz auf. Verbesserungen von SPD und AOD gehen nicht durchgehend mit einer Verbesserung der PPD einher und können mit Einbußen bei der Accuracy verbunden sein. Auch die Kombinationen sind den jeweils besten Einzelmethoden nicht durchgehend überlegen.
+Die Ergebnisse zeigen datensatz- und metrikabhängige Wirkungen. Im ILPD treten stärkere Ausgangsdisparitäten und deutlichere Methodeneffekte als im HCV-Datensatz auf. Verbesserungen von SPD und AOD gehen nicht durchgehend mit einer Verbesserung der PPD einher und können mit Einbußen bei der Accuracy verbunden sein. Auch die Kombinationen keine signifikante Fairnessverbesserung.
 
-**Schlüsselwörter:** Algorithmische Fairness, Fairness-aware Machine Learning, Lebererkrankungsvorhersage, Pre-Processing, Post-Processing, Random Forest, ILPD, HCV
+**Schlüsselwörter:** Algorithmische Fairness, Lebererkrankungsvorhersage, Pre-Processing, Post-Processing, Random Forest, ILPD, HCV
 
 **Volltext:** `\[Link zum veröffentlichten Volltext eintragen]`
 
