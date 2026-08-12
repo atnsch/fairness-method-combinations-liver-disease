@@ -111,17 +111,17 @@ Zusätzlich wird eine Jupyter-kompatible Umgebung benötigt, beispielsweise Jupy
 
 3. `src/Bachelorarbeit.ipynb` öffnen.
 4. Den Kernel neu starten und sämtliche Zellen in ihrer vorgegebenen Reihenfolge ausführen.
-5. Nach erfolgreicher Ausführung befindet sich die Ergebnisdatei unter `results/fairness\_results.xlsx`.
+5. Nach erfolgreicher Ausführung befindet sich die Ergebnisdatei unter `results/fairness_results.xlsx`.
 
 Die Versuchsreihe verwendet 100 festgelegte Zufallsseeds von 42 bis 141. Die Rohdateien werden nicht verändert. Weitere Angaben zu Herkunft, Lizenz und Prüfsummen der Datensätze enthält `data/README.md`.
 
 ### Trainingscode
 
-Das Training aller Modelle erfolgt in `notebooks/Bachelorarbeit.ipynb`. Für jeden Durchlauf wird ein neuer Random Forest trainiert. Das Notebook führt die Baseline, die vier Einzelmethoden und die vier Kombinationen aus Pre- und Post-Processing aus.
+Das Training aller Modelle erfolgt in `src/fairness-method-combinations-liver-disease.ipynb`. Für jeden Durchlauf wird ein neuer Random Forest trainiert. Das Notebook führt die Baseline, die vier Einzelmethoden und die vier Kombinationen aus Pre- und Post-Processing aus.
 
 ### Evaluationscode
 
-Die Evaluation ist ebenfalls vollständig in `notebooks/Bachelorarbeit.ipynb` enthalten. Das Notebook berechnet gruppenspezifische Klassifikationsraten, Accuracy, SPD, AOD und PPD, aggregiert die Ergebnisse über alle Durchläufe und bestimmt die Kombinationseffekte gegenüber der jeweils besten Einzelmethode.
+Die Evaluation ist ebenfalls vollständig in `src/fairness-method-combinations-liver-disease.ipynb` enthalten. Das Notebook berechnet gruppenspezifische Klassifikationsraten, Accuracy, SPD, AOD und PPD, aggregiert die Ergebnisse über alle Durchläufe und bestimmt die Kombinationseffekte gegenüber der jeweils besten Einzelmethode.
 
 ### Vortrainierte Modelle
 
@@ -129,7 +129,7 @@ Es werden keine vortrainierten Modelle bereitgestellt oder benötigt. Sämtliche
 
 ## Ergebnisse
 
-Die vollständigen Ergebnistabellen werden in `results/fairness\_results.xlsx` gespeichert. Die Arbeitsmappe enthält folgende Tabellenblätter:
+Die vollständigen Ergebnistabellen werden in `results/fairness_results.xlsx` gespeichert. Die Arbeitsmappe enthält folgende Tabellenblätter:
 
 * `Gruppenmetriken`
 * `Fairnessmetriken`
