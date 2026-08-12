@@ -150,8 +150,8 @@ Die ersten beiden Tabellenblätter dokumentieren die aggregierten Gruppen- und F
 │   ├── Indian Liver Patient Dataset (ILPD).csv
 │   └── hcvdat0.csv
 ├── src
-│   └── Bachelorarbeit.ipynb
+│   └── fairness-method-combinations-liver-disease.ipynb
 └── results
-    └── fairness\_results.xlsx
+    └── fairness_results.xlsx
 ```
 
