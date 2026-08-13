@@ -7,7 +7,7 @@
 
 
 
-`![SPD, AOD und PPD im Vergleich zur Accuracy je Methodengruppe](plots/Gesamtergebnisse.png)
+![SPD, AOD und PPD im Vergleich zur Accuracy je Methodengruppe](plots/Gesamtergebnisse.png)
 
 ## Inhaltsverzeichnis
 
