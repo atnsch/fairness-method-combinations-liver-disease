@@ -118,7 +118,7 @@ Die Evaluation ist ebenfalls vollständig in `src/fairness-method-combinations-l
 
 ### Vortrainierte Modelle
 
-Es werden keine vortrainierten Modelle bereitgestellt oder benötigt. Sämtliche Modelle und Post-Processing-Komponenten werden bei der Ausführung des Notebooks neu trainiert beziehungsweise angepasst.
+Es werden keine vortrainierten Modelle bereitgestellt oder benötigt. 
 
 ## Ergebnisse
 
