@@ -34,7 +34,7 @@ Die Ergebnisse zeigen datensatz- und metrikabhängige Wirkungen. Im ILPD treten 
 
 **Schlüsselwörter:** Algorithmische Fairness, Lebererkrankungsvorhersage, Pre-Processing, Post-Processing, Random Forest, ILPD, HCV
 
-**Volltext:** `\[Link zum veröffentlichten Volltext eintragen]`
+<!--**Volltext:** `\[Link zum veröffentlichten Volltext eintragen]`-->
 
 ## Arbeiten mit dem Repository
 
@@ -59,7 +59,7 @@ Zusätzlich wird eine Jupyter-kompatible Umgebung benötigt, beispielsweise Jupy
 1. Repository klonen und in den Projektordner wechseln:
 
 ```bash
-   git clone <URL-DIESES-REPOSITORIES>
+   git clone https://github.com/atnsch/fairness-method-combinations-liver-disease.git
    cd fairness-method-combinations-liver-disease
    ```
 
