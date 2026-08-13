@@ -7,14 +7,7 @@
 
 
 
-```mermaid
-flowchart TD
-    A\["ILPD und HCV"] --> B\["Wiederholte Datenaufteilung und Datenvorbereitung"]
-    B --> C\["Baseline und vier Einzelmethoden"]
-    B --> D\["Vier Pre-/Post-Processing-Kombinationen"]
-    C --> E\["Vergleich über Accuracy, SPD, AOD und PPD"]
-    D --> E
-```
+`![SPD, AOD und PPD im Vergleich zur Accuracy je Methodengruppe](plots/Gesamtergebnisse.png)
 
 ## Inhaltsverzeichnis
 
@@ -149,6 +142,8 @@ Die ersten beiden Tabellenblätter dokumentieren die aggregierten Gruppen- und F
 │   ├── README.md
 │   ├── Indian Liver Patient Dataset (ILPD).csv
 │   └── hcvdat0.csv
+├── plots
+│   └── Gesamtergebnisse.png
 ├── src
 │   └── fairness-method-combinations-liver-disease.ipynb
 └── results
