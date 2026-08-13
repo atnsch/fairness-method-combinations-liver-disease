@@ -134,7 +134,7 @@ Die vollständigen Ergebnistabellen werden in `results/fairness_results.xlsx` ge
 * `Gruppenmetriken`
 * `Fairnessmetriken`
 * `Kombinationseffekte`
-* `Kombinationseffekte\_Laeufe`
+* `Kombinationseffekte_Laeufe`
 
 Die ersten beiden Tabellenblätter dokumentieren die aggregierten Gruppen- und Fairnessmetriken. Die letzten beiden enthalten die zusammengefassten Kombinationseffekte sowie die zugrunde liegenden Werte der einzelnen Durchläufe.
 
