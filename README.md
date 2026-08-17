@@ -74,7 +74,7 @@ Zusätzlich wird eine Jupyter-kompatible Umgebung benötigt, beispielsweise Jupy
    Unter Windows PowerShell:
 
 ```powershell
-   .\.venv\\cripts\Activate.ps1
+   .\.venv\Scripts\Activate.ps1
    ```
 
    Unter macOS oder Linux:
